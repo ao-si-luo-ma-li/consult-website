@@ -35,38 +35,42 @@ const message_1 = {
   `,
 };
 
-const about = {
-  title: "关于我们",
+const shuiwu = {
+  title: "税务申报",
   content: `
-  <div class="entry-content">
-                        
-<p>　　陈菲会计师事务所(Chen CPA Inc. A Professional Accountancy Corporation) ，是美国加州正式登记的一家以<u>服务</u><u>客户</u>为宗旨的注册会计师事务所（Certified Public Accountant, 简称CPA），拥有丰富的实践经验和高素质的团队，能够敏锐响应客户需求。</p>
-<p>　　本着为客户提供更好的服务体验的宗旨，我们致力于高效率地为客户提供可靠的的，专业的定制化服务。在准确的了解客户情况和需求的前提下，因需求而异为个人和企业提供量身定制的服务，精准打击，为您的财富道路扫清障碍。</p>
-<p>　　在经济全球化大背景的环境下，我们也专注于提供国际化的服务。我们团队的中美教育及生活背景保证我们能够真正精准地了解客户需求，迅速的解答客户疑问，专业而可靠的解决客户的疑难杂症，帮助国际客户克服语言难题。我们将是您国际商路上的左膀右臂，致力为您实现利益的最大化。</p>
-<p>　　我们的主要服务项目包括全美50个州公司注册，会计，各项税务和咨询服务；美国及海外个人税务申报和咨询服务; 外国人个人税号申请等服务。</p>
+  税务申报相关信息
   `,
 };
 
-const faq = {
-  title: "FAQ",
-  content: `FAQ 问题集合!!!`,
+const renshou = {
+  title: "人寿保险",
+  content: `人寿保险相关信息`,
 };
 
-const contactus = {
-  title: "联系我们",
+const refund = {
+  title: "退休金理财",
+  content: `退休金理财相关信息`,
+};
+
+const xintuo = {
+  title: "生前信托",
   content: `
-  <div class="entry-content">
-                        
-<p><iframe style="border: 0;" tabindex="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3319.5915467097434!2d-117.7677164!3d33.693639!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcdce1948dfd93%3A0x7776bd14a7e1438b!2zOTgwIFJvb3NldmVsdCAjMjAwLCBJcnZpbmUsIENBIDkyNjIw576O5Zu9!5e0!3m2!1szh-CN!2suk!4v1603265641797!5m2!1szh-CN!2suk" width="100%" height="450" frameborder="0" allowfullscreen="allowfullscreen" aria-hidden="false"></iframe></p>
-<p>联系电话：（657）699-3009　　<span style="color: #000000;">洛杉矶时间 周一至周五 上午9点-下午6点</span></p>
+  生前信托相关信息
+  `,
+};
 
 
+const setup = {
+  title: "美国公司成立",
+  content: `
+  美国公司成立相关信息
+  `,
+};
 
-<p>联系邮箱：APRIL@CHEN.CPA / INFO@CHEN.CPA</p>
-
-
-
-<p>公司地址：980 ROOSEVELT， #200， Irvine, CA 92620</p>
+const trade = {
+  title: "公司买卖",
+  content: `
+  公司买卖相关信息
   `,
 };
 
@@ -75,7 +79,7 @@ const service_company = {
   content: `
   <div class="entry-content">
                         <p>我们致力于为您的公司提供全方面，国际化的专业服务和真正一站式的服务体验。用最细致缜密，尽职严谨的态度为您解决从公司成立，到公司会计，财务，税务及未来规划的事务。让您不再受繁琐的事务的束缚，有更多的时间和精力去开拓您的生意市场。</p>
-<div class="tabs"><ul class="nav nav-tabs" role="tablist"><li role="presentation" class="active"><a href="#tabs-_scode_201009021205127-0" role="tab" data-toggle="tab">公司成立和注销</a></li><li role="presentation"><a href="#tabs-_scode_201009021205127-1" role="tab" data-toggle="tab">公司会计和财务</a></li><li role="presentation"><a href="#tabs-_scode_201009021205127-2" role="tab" data-toggle="tab">公司税务和规划</a></li><li role="presentation"><a href="#tabs-_scode_201009021205127-3" role="tab" data-toggle="tab">薪水服务</a></li></ul><div class="tab-wrap"><div class="tab-content"><div role="tabpanel" class="tab-pane fade in active" id="tabs-_scode_201009021205127-0"><p>我们可以帮忙注册全美<strong>50个州</strong>的所有公司，常见的有加利福尼亚州，华盛顿州，内华达州，特拉华州，科罗拉多州，怀俄明州，弗罗里达州等等。公司形式Corporation, Partnership, LLC、LP均可。后续也可以为您提供各种营业执照的申请，提供虚拟地址等服务。真正的一站式综合性服务，让您轻松在美国商路起飞。</p><p><br></p><p>陈菲会计师事务所（Chen CPA Inc）向客户提供包含但不限于以下的服务：</p><ol><li>50个州的公司注册和注销服务<br>向您提供注册流程、所需资料和费用、注册完毕后的文件清单，以及维持公司合法运营的基本政府要求。<br>为您的新企业成立给出具有参考性的实体结构建议，以帮助您获得最有利的税收优惠，&nbsp;尽可能小的法律风险，以及最大的操作性和可移植性。企业结构有C类股份有限公司C-Corporation， S类股份有限公司S-Corporation，有限制责任公司LLC，合伙公司和个人独资公司。我们希望帮您选择最适合您需求的业务结构。</li><li>申请联邦税号 EIN。</li><li>申请所有必需的州和地方证件与许可证。</li><li>帮助准备初步的商业计划，以初拟您的营销，管理和财务计划并确定您的启动资金需求。</li><li>帮助您确定必要的启动资金和备用资金来源。</li><li>帮助您评估您的借贷能力，以便您提前知道在需要时可获得的资金。</li><li>协助您创建实体企业，与律师合作，审查递交州务卿办公室的申请资料。</li><li>当您雇用第一批员工时，可以提供工资单和工资税申报的服务。</li><li>规范您公司行为以符合就业法，避免您就收到罚款和员工不满的投诉的可能。</li><li>帮助您确定您的商业保险需求。</li></ol></div><div role="tabpanel" class="tab-pane fade" id="tabs-_scode_201009021205127-1"><p>公司的记账和会计行为是十分琐碎且耗时的工作，而自己记账的时间成本是并不划算的。我们可以代替您完成这项琐碎的工作，妥善为您管理公司帐目，让您有时间和精力专注于公司的发展。</p><p><br></p><p>陈菲会计师事务所（Chen CPA Inc）向客户提供包含但不限于以下的服务：</p><ol><li>QuickBooks软件支持管理<br>帮您选择最适合您的Quickbooks服务，提供您需要的安装，设置及操作等帮助。我们为您提供员工Quickbooks 操作培训。<br><br></li><li>记账服务<br>每个月或每个季度，我们都会为您</li></ol><ul><li>核对您的银行帐户</li><li>为您提供财务报表</li><li>为您对账目上的问题进行解答</li><li>月度，季度，年度的总结</li></ul></div><div role="tabpanel" class="tab-pane fade" id="tabs-_scode_201009021205127-2"><p>面对不断变化，甚至有时难以理解的美国税法。想要达到对企业税务高效系统的管理目标是并不容易的。然而不可否认，合理的规划是成功地合法减少税收义务的关键。我们对复杂税法的熟练掌握以及对新税法变动敏锐的嗅觉保证我们能够帮您依法纳税，根据我们的税务经验为您主动推荐节税的策略，尽可能的最大化您的税后收入。</p><p><br></p><p>陈菲会计师事务所（Chen CPA Inc）向客户提供包含但不限于以下的服务：</p><ol><li>联邦和各州公司所得税表申报<br>我们使用专业软件配合我们丰富的经验，对您的纳税表格进行多次的检查，以确保没有数字计算问题和美国联邦国税局（IRS）会进一步审查的潜在问题。我们会选择电子方式提交您的纳税表格，以保证您能及时提交您的税表，更方便地追踪您的税表申报情况，更快的拿到退税款。</li><li>薪水和薪水税服务<br>我们为您提供专业的员工薪水计算，薪水税的计算和提交，薪水税表的申报，员工福利的设置等服务。</li><li>销售税及其他税务服务<br>我们为您提供销售税及其他地方税务的申报，如城市税，固定资产税等。</li><li>各州年审<br>我们为您提供全美50个州的年审服务。</li><li>税务分析<br>分析您税务情况，提出未来的规划建议，致力于减少您次年的纳税。站在专业的角度向您提供关于收入及赋税可行的调整建议，致力于合理减少您的赋税负担。</li><li>税局沟通代表<br>当您收到税局查账，或者信件时，我们可以成为您的专业代表，代表您与税局沟通，向税局申诉，申请罚款减免等，成为您与税局之间的桥梁。</li></ol></div><div role="tabpanel" class="tab-pane fade" id="tabs-_scode_201009021205127-3"><p>我们为您的公司提供薪水税管理服务。请将计算和安排薪水税这件繁杂的工作交给我们，减轻您的工作负担的同时也减轻在申报薪水税是可能发生的计算错误以及罚款的可能性。</p><p><br></p><p>陈菲会计师事务所（Chen CPA Inc）向客户提供包含但不限于以下的服务：</p><ol><li>通过联邦电子缴纳系统（EFTPS）存入所有联邦税。</li><li>美国联邦国税局税务报告和州税务报告。</li><li>月度，季度，年度薪资税报表，其中包括W-2， W-3和1099表格等。</li><li>帮您计算及按时缴纳联邦和州的薪水税，避免因为迟交和漏交可能导致罚款。</li><li>代发薪水。</li></ol></div><div role="tabpanel" class="tab-pane fade" id="tabs-_scode_201009021205127-4"></div></div></div></div>
+<div class="tabs"><ul class="nav nav-tabs" role="tablist"><li role="presentation" class="active"><a href="#tabs-_scode_201009021205127-0" role="tab" data-toggle="tab">公司成立和注销</a></li><li role="presentation"><a href="#tabs-_scode_201009021205127-1" role="tab" data-toggle="tab">公司会计和财务</a></li><li role="presentation"><a href="#tabs-_scode_201009021205127-2" role="tab" data-toggle="tab">公司税务和规划</a></li><li role="presentation"><a href="#tabs-_scode_201009021205127-3" role="tab" data-toggle="tab">薪水服务</a></li></ul><div class="tab-wrap"><div class="tab-content"><div role="tabpanel" class="tab-pane fade in active" id="tabs-_scode_201009021205127-0"><p>我们可以帮忙注册全美<strong>50个州</strong>的所有公司，常见的有加利福尼亚州，华盛顿州，内华达州，特拉华州，科罗拉多州，怀俄明州，弗罗里达州等等。公司形式Corporation, Partnership, LLC、LP均可。后续也可以为您提供各种营业执照的申请，提供虚拟地址等服务。真正的一站式综合性服务，让您轻松在美国商路起飞。</p><p><br></p><p>跃升理财（Chen CPA Inc）向客户提供包含但不限于以下的服务：</p><ol><li>50个州的公司注册和注销服务<br>向您提供注册流程、所需资料和费用、注册完毕后的文件清单，以及维持公司合法运营的基本政府要求。<br>为您的新企业成立给出具有参考性的实体结构建议，以帮助您获得最有利的税收优惠，&nbsp;尽可能小的法律风险，以及最大的操作性和可移植性。企业结构有C类股份有限公司C-Corporation， S类股份有限公司S-Corporation，有限制责任公司LLC，合伙公司和个人独资公司。我们希望帮您选择最适合您需求的业务结构。</li><li>申请联邦税号 EIN。</li><li>申请所有必需的州和地方证件与许可证。</li><li>帮助准备初步的商业计划，以初拟您的营销，管理和财务计划并确定您的启动资金需求。</li><li>帮助您确定必要的启动资金和备用资金来源。</li><li>帮助您评估您的借贷能力，以便您提前知道在需要时可获得的资金。</li><li>协助您创建实体企业，与律师合作，审查递交州务卿办公室的申请资料。</li><li>当您雇用第一批员工时，可以提供工资单和工资税申报的服务。</li><li>规范您公司行为以符合就业法，避免您就收到罚款和员工不满的投诉的可能。</li><li>帮助您确定您的商业保险需求。</li></ol></div><div role="tabpanel" class="tab-pane fade" id="tabs-_scode_201009021205127-1"><p>公司的记账和会计行为是十分琐碎且耗时的工作，而自己记账的时间成本是并不划算的。我们可以代替您完成这项琐碎的工作，妥善为您管理公司帐目，让您有时间和精力专注于公司的发展。</p><p><br></p><p>跃升理财（Chen CPA Inc）向客户提供包含但不限于以下的服务：</p><ol><li>QuickBooks软件支持管理<br>帮您选择最适合您的Quickbooks服务，提供您需要的安装，设置及操作等帮助。我们为您提供员工Quickbooks 操作培训。<br><br></li><li>记账服务<br>每个月或每个季度，我们都会为您</li></ol><ul><li>核对您的银行帐户</li><li>为您提供财务报表</li><li>为您对账目上的问题进行解答</li><li>月度，季度，年度的总结</li></ul></div><div role="tabpanel" class="tab-pane fade" id="tabs-_scode_201009021205127-2"><p>面对不断变化，甚至有时难以理解的美国税法。想要达到对企业税务高效系统的管理目标是并不容易的。然而不可否认，合理的规划是成功地合法减少税收义务的关键。我们对复杂税法的熟练掌握以及对新税法变动敏锐的嗅觉保证我们能够帮您依法纳税，根据我们的税务经验为您主动推荐节税的策略，尽可能的最大化您的税后收入。</p><p><br></p><p>跃升理财（Chen CPA Inc）向客户提供包含但不限于以下的服务：</p><ol><li>联邦和各州公司所得税表申报<br>我们使用专业软件配合我们丰富的经验，对您的纳税表格进行多次的检查，以确保没有数字计算问题和美国联邦国税局（IRS）会进一步审查的潜在问题。我们会选择电子方式提交您的纳税表格，以保证您能及时提交您的税表，更方便地追踪您的税表申报情况，更快的拿到退税款。</li><li>薪水和薪水税服务<br>我们为您提供专业的员工薪水计算，薪水税的计算和提交，薪水税表的申报，员工福利的设置等服务。</li><li>销售税及其他税务服务<br>我们为您提供销售税及其他地方税务的申报，如城市税，固定资产税等。</li><li>各州年审<br>我们为您提供全美50个州的年审服务。</li><li>税务分析<br>分析您税务情况，提出未来的规划建议，致力于减少您次年的纳税。站在专业的角度向您提供关于收入及赋税可行的调整建议，致力于合理减少您的赋税负担。</li><li>税局沟通代表<br>当您收到税局查账，或者信件时，我们可以成为您的专业代表，代表您与税局沟通，向税局申诉，申请罚款减免等，成为您与税局之间的桥梁。</li></ol></div><div role="tabpanel" class="tab-pane fade" id="tabs-_scode_201009021205127-3"><p>我们为您的公司提供薪水税管理服务。请将计算和安排薪水税这件繁杂的工作交给我们，减轻您的工作负担的同时也减轻在申报薪水税是可能发生的计算错误以及罚款的可能性。</p><p><br></p><p>跃升理财（Chen CPA Inc）向客户提供包含但不限于以下的服务：</p><ol><li>通过联邦电子缴纳系统（EFTPS）存入所有联邦税。</li><li>美国联邦国税局税务报告和州税务报告。</li><li>月度，季度，年度薪资税报表，其中包括W-2， W-3和1099表格等。</li><li>帮您计算及按时缴纳联邦和州的薪水税，避免因为迟交和漏交可能导致罚款。</li><li>代发薪水。</li></ol></div><div role="tabpanel" class="tab-pane fade" id="tabs-_scode_201009021205127-4"></div></div></div></div>
 <p>&nbsp;</p>
 <p>除上述服务以外，我们也在这里为您解答其他的疑问。</p>
 <p>请拨打我们的咨询电话（657）699-3009或用几分钟填写下面表格向我们说明您的问题。</p>
@@ -85,8 +89,11 @@ const service_company = {
 
 export default {
   message_1,
-  about,
-  faq,
-  contactus,
+  shuiwu,
+  renshou,
+  xintuo,
+  refund,
+  setup,
+  trade,
   service_company
 };
