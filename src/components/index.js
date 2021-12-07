@@ -19,7 +19,3 @@ var mySwiper = new Swiper ('.swiper-container', {
     prevEl: '.swiper-button-prev',
   },
 }) 
-
-$('.navbar-collapse').on('click', function() {
-  alert()
-})

@@ -3,6 +3,8 @@ const util = require('./common.js');
 (function() {
 	window.jQuery = jQuery;
 
+	console.log('window.jQuery', window.jQuery)
+
 	// 因为css加载慢导致页面闪抖，延迟显示保障效果
 	setTimeout(() => {
 		$('body').show()

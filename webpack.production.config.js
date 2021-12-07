@@ -34,7 +34,6 @@ module.exports = {
         new webpack.ProvidePlugin({
             $: "jquery",
             jQuery: "jquery",
-            "window.jQuery": "jquery"
         }),
         new HtmlwebpackPlugin({
             title: '首页',

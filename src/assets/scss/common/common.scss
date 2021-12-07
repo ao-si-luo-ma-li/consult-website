@@ -186,9 +186,16 @@
   }
 }
 
-.entry .entry-content {
-  line-height: 1.8;
-  font-size: 16px
+.entry {
+  .entry-content {
+    line-height: 1.8;
+    font-size: 16px;
+  
+    li {
+      list-style: initial;
+      margin-left: 18px;
+    }
+  }
 }
 
 

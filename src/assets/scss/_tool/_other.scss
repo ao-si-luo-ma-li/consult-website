@@ -20,3 +20,14 @@
 	opacity: $op;
 	filter:alpha(opacity=$op*100);  
 }
+
+@mixin limitLine($Num) {
+	white-space: normal;
+	display: -webkit-box;
+	/*! autoprefixer: off */
+	-webkit-box-orient: vertical;
+	/*! autoprefixer: on */
+	overflow: hidden;
+	-webkit-line-clamp: $Num;
+	text-overflow: ellipsis;
+}
