@@ -165,113 +165,93 @@ const shuiwu = {
 const renshou = {
   title: "人寿保险",
   content: `
-  <p>许多聪敏的客人们已悄悄地把眼光聚焦在了美国人寿保险上，作为美元资产配置的首选，大额人寿保单成了他们秘而不宣的私藏。那美国人寿保险的好处到底是什么？美国人寿保险到底好在哪里？</p>
-
-<p>​</p>
-
-<p><strong>好处一、美国保险业历经</strong><strong>200</strong><strong>多年沉淀，运作极其规范没有倒闭的风险</strong></p>
-
-<p>美国人寿保险的最大好处是行业成熟。自从1762年第一份保单诞生到21世纪的今天，已经有了200多年的历史沉淀，可以说美国保险是一个成熟且发达的市场。</p>
-
-<p>美国对保险业实行联邦政府和州政府双重监管制度，联邦政府和州政府拥有各自独立的保险立法权和管理权。每家保险公司的每个产品都需要通过几十个州的监管部门的审批才能推向市场。保险监管主要是确保保险公司有财力兑现自己的保险承诺，各州保险法规定设立保险公司的法定最低资本和盈馀标准，当保险公司的资本和盈馀达不到本州规定的最低标准时，监管机构就会进行干预。对不能承受风险的还有再保险公司来承担，这种双保险机制令人安心，因此美国的保险公司至今没有倒闭的。此外还有市场行为监管以保证价格、产品和交易情况合理公正。</p>
-
-<p>&nbsp;</p>
-
-<p><strong>好处二、美国保险费全球最低</strong></p>
-
-<p>美国人寿保险是保费全球最低。美国保险行业历史悠久，同时也意味着竞争激烈，据统计美国目前有800多家保险公司，如此高的保有量使得美国保险的保费在全世界来看也是最便宜的。横向对比，若在相同保额前提下，美国的保单保费与中国的最大差价高达5倍，台湾的2倍，什么概念？也就是说同等条件下。美国的保费仅是中国的五分之一，台湾的二分之一！美国人寿保险采用的生命周期表是到125岁的，加上投资环境稳健，投资渠道透明等，这些因素的影响下，保险成本较低，所以保费会相对便宜许多。</p>
-
-<p>&nbsp;</p>
-
-<p><strong>好处三、</strong><strong>IUL</strong><strong>保险产品理念超前，亚洲没有</strong></p>
-
-<p>美国人寿保险的第三个好处是理念领先全球。如果在亚洲购买人寿保险，产品无非是定期寿险，终生寿险，储蓄分红型万能险这3个种类。美国除这三种外，还有指数型万能险和投资型万能险。目前对于在亚洲的客户来说，这些产品都还没有出现。</p>
-
-<p>指数型万能险是一种有保障的投资型保险，优势在于可以循股市获得相同的收益而保证只赚不赔，因此博得了越来越多华人的青睐。目前这样先进的产品都还没有在华人市场出现。</p>
-
-<p>根据LIMRA的最新数据，美国金融业中增长幅度最大的产品Indexed Universal LifeInsurance(简称IUL指数型人寿保险)已经占据美国保险市场的大部分份额，是美国最主流的寿险产品。</p>
-
-<p>&nbsp;</p>
-
-<p><strong>好处四、美国保险重信誉，保险理赔简单</strong></p>
-
-<p>美国人寿保险的另一个好处是重信誉，理赔简单。前面讲过美国保险公司经历了200多年的沉淀，很多美国保险公司都是名副其实的&ldquo;百年老店&rdquo;。言辞规范而理赔及时，不会玩文字游戏，人死赔钱天经地义。保险公司找藉口不赔或是故意拖延理赔的这在美国从来没有发生过，如对理赔产生争议，法律上绝倾向于受保人。而亚洲国家保险业大多只有几十年历史。特别是寿险，从这点来看和美国的保险业没得比。</p>
-
-<p>美国保险实现&ldquo;严进宽出&rdquo;的政策，一般核保都比较严格，耗时较长，赔付却非常的高效。理赔的程序在美国非常简单，只要是提出死亡证明以及死亡理赔申请单即可申办理赔。反观一些亚洲国家因为保险业发展相对年轻，因此理赔制上相对较不纯熟，除了要提供许多资料正本进行理赔申请，拒绝理赔的现象也常发生。</p>
-
-<p>&nbsp;</p>
-
-<p><strong>好处五、分散投资保值财产</strong><strong>&nbsp;</strong></p>
-
-<p>美国人寿保险的第五个好处是可以&ldquo;藏钱&rdquo;。鸡蛋不能同时放在一个篮子裡，这个策略很多人都懂，当然那些精明的中国客人更是运用的非常娴熟，做为分散投资的一种渠道，买美国保险是最基本也是最有保障的方式。而且只有美国才有的最新型终身保险还有投资功能，放钱取钱灵活，还有个好处是可以100%免税支取。另外，美国人寿保险上的现金值是不受官司追讨的，具有司法豁免保障。</p>
-
-<p>&nbsp;</p>
-
-<p><strong>好处六、保险理赔还可用来冲抵遗产税</strong><strong>&nbsp;</strong></p>
-
-<p>美国人寿保险的第六个好处是可以对冲遗产税。很多华人来美买房只看价格地段，但很多人可能不知道非美国人过世后，他所投资美国资产或房产遗产税额度只有6万美元，超过这个6万美元部分税率高达40%,更紧迫的是人过世后必须在9个月用现金付清遗产税后才可以继承财产。但如果有人寿保险这个担心就不存在了。除此之外，美国有远见的富裕家庭通常会利用人寿保险来帮子女储蓄。政府每年允许$15,000免报赠予。有的父母，祖父母可以用这个机会来帮年轻的孩子买保险储蓄，规划财富传承给下一代，等到年老退休时提出现金值也有基本的生活质量保障。</p>
-
-<p>&nbsp;</p>
-
-<p><strong>好处七、有效规避</strong><strong>CRS</strong></p>
-
-<p>美国人寿保险的七大好处是，可以避税。对于非美国居民而言，美国保险的一个强有力的优势就是CRS。由于美国没有加CRS,因此外国人在美国的保险账户也不用担心会被其他国家税务部门拿到信息。</p>
-
-<p>&nbsp;</p>
-
-  `
-};
-
-const refund = {
-  title: "退休金理财",
-  content: `
-  <p class="p1" style="margin-top: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
-    <span style="font-size: 16px;">美国退休的计划主要分为三大类，包括：社会安全保障金，公司及政府的退休金，以及个人退休金（包括<span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">401K</span>，</span><a href="https://www.dealmoon.com/guide/774006" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;; color: rgb(0, 0, 255); font-size: 16px; text-decoration: underline;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;; color: rgb(0, 0, 255); font-size: 16px;">IRA</span></a><span style="font-size: 16px;">等等）。通常情况下，<span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">401K</span>是公司来挑选，<span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">IRA</span>计划是由个人自己选择的。每个月将钱存入退休账户，自行（或者找寻专业的投资人士）选择及投资市场的各种产品组合，根据市场行情的好坏自负盈亏。</span>
+  <p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">许多聪敏的客人们已悄悄地把眼光聚焦在了美国人寿保险上，作为美元资产配置的首选，大额人寿保单成了他们秘而不宣的私藏。那美国人寿保险的好处到底是什么？美国人寿保险到底好在哪里？</span><br/>
 </p>
-<p class="p2" style="margin-top: 0px; margin-bottom: 6px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
-    <span style="font-size: 16px;">而年金是一种个人与保险公司之间的合同，是由保险公司提供的退休储值工具，相对而言无论市场行情如何，风险都较小。投保人在购买年金后，到了领取的年龄可以每月领取一定金额，一直到过世，如果超过了投保金额后投保人身体还很健康，那么保险公司需要一直支付。</span>
+<p class="p2" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: Helvetica; min-height: 12px; white-space: normal;">
+    <br/>
 </p>
-<p class="p2" style="margin-top: 0px; margin-bottom: 6px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+<p class="p3" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC Semibold&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;;"><strong>好处一、美国保险业历经</strong></span><span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;"><strong>200</strong></span><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;;"><strong>多年沉淀，运作极其规范没有倒闭的风险</strong></span></span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">美国人寿保险的最大好处是行业成熟。自从<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">1762</span>年第一份保单诞生到<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">21</span>世纪的今天，已经有了<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">200</span>多年的历史沉淀，可以说美国保险是一个成熟且发达的市场。</span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">美国对保险业实行联邦政府和州政府双重监管制度，联邦政府和州政府拥有各自独立的保险立法权和管理权。每家保险公司的每个产品都需要通过几十个州的监管部门的审批才能推向市场。保险监管主要是确保保险公司有财力兑现自己的保险承诺，各州保险法规定设立保险公司的法定最低资本和盈馀标准，当保险公司的资本和盈馀达不到本州规定的最低标准时，监管机构就会进行干预。对不能承受风险的还有再保险公司来承担，这种双保险机制令人安心，因此美国的保险公司至今没有倒闭的。此外还有市场行为监管以保证价格、产品和交易情况合理公正。</span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
     <span style="font-size: 16px;"><br/></span>
 </p>
-<p class="p3" style="margin-top: 0px; margin-bottom: 6px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13.5px; line-height: normal; font-family: &quot;PingFang SC Semibold&quot;; white-space: normal;">
-    <span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;; font-size: 16px;"><strong>年金的优势</strong></span>
+<p class="p3" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC Semibold&quot;; white-space: normal;">
+    <span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;; font-size: 16px;"><strong>好处二、美国保险费全球最低</strong></span>
 </p>
-<ol class="ol1 list-paddingleft-2" style="font-size: medium; white-space: normal;">
-    <li>
-        <p>
-            <span style="font-size: 16px;"><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;"></span>年金可以延税（<span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">tax-deferral</span>），放进账户里面的钱，只要不取出就可以暂时不用交税，知道领取养老金的时候再交税。这样带来的好处非常多，通常情况下退休后的税率会比工作时候要低；而且不用每年交税，利滚利最终的收益一定比年年交税要高。</span>
-        </p>
-    </li>
-    <li>
-        <p>
-            <span style="font-size: 16px;"><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;"></span>不同于<span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">401K</span>或者<span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">IRA</span>，年金的存款并没有上线，也就是说可以根据自己的需要投入自己认为合理的数字。</span>
-        </p>
-    </li>
-    <li>
-        <p>
-            <span style="font-size: 16px;"><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;"></span>其他退休账户的钱可以一次性的转进年金里面。有很多年金产品会根据缴费的具体年限，在第一年或者之后很多年发放红利。</span>
-        </p>
-    </li>
-    <li>
-        <p>
-            <span style="font-size: 16px;"><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;"></span>除了投保人获得终身的退休收入，还可以指定受益人，如果投保人在领取年金之前就去世了，受益人可以领取全部的本金。当然如果投保人去世时账户里面还有没有领取完的余额，受益人也可以继续领取。</span>
-        </p>
-    </li>
-</ol>
-<p class="p4" style="margin-top: 0px; margin-bottom: 8px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 11px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
-    <span style="font-size: 16px;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;;"><br/></span>跃升财务集团，有超过<span class="s4" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">10</span>年的财务规划和管理经验，擅于整合市场最优质的退休理财产品为客户服务，帮助客户成就财富目标！我们会根据您的个人收入以及税务情况为您设计用<span class="s4" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">IRA, Roth IRA, SEP IRA </span>以及<span class="s4" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;"> SIMPLE IRA</span>的账户配合各大保险公司的年金产品来达到既省税又保险的退休理财计划。</span>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">美国人寿保险是保费全球最低。美国保险行业历史悠久，同时也意味着竞争激烈，据统计美国目前有<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">800</span>多家保险公司，如此高的保有量使得美国保险的保费在全世界来看也是最便宜的。横向对比，若在相同保额前提下，美国的保单保费与中国的最大差价高达<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">5</span>倍，台湾的<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">2</span>倍，什么概念？也就是说同等条件下。美国的保费仅是中国的五分之一，台湾的二分之一！美国人寿保险采用的生命周期表是到<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">125</span>岁的，加上投资环境稳健，投资渠道透明等，这些因素的影响下，保险成本较低，所以保费会相对便宜许多。</span>
 </p>
-<p class="p5" style="margin-top: 0px; margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 11px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
-    <span style="font-size: 16px;">我们为您精选优质保险公司为您服务，这些保险公司的年金和退休计划开户门槛低、免手续费、免管理费、高利息以及投资又保本等多项优势。</span>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><br/></span>
 </p>
-<p class="p6" style="margin-top: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Times New Roman&quot;; min-height: 15px; white-space: normal;">
-    <br/>
+<p class="p3" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC Semibold&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;;"><strong>好处三、</strong></span><span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;"><strong>IUL</strong></span><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;;"><strong>保险产品理念超前，亚洲没有</strong></span></span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">美国人寿保险的第三个好处是理念领先全球。如果在亚洲购买人寿保险，产品无非是定期寿险，终生寿险，储蓄分红型万能险这<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">3</span>个种类。美国除这三种外，还有指数型万能险和投资型万能险。目前对于在亚洲的客户来说，这些产品都还没有出现。</span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">指数型万能险是一种有保障的投资型保险，优势在于可以循股市获得相同的收益而保证只赚不赔，因此博得了越来越多华人的青睐。目前这样先进的产品都还没有在华人市场出现。</span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">根据<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">LIMRA</span>的最新数据，美国金融业中增长幅度最大的产品<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">Indexed Universal LifeInsurance(</span>简称<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">IUL</span>指数型人寿保险<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">)</span>已经占据美国保险市场的大部分份额，是美国最主流的寿险产品。</span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><br/></span>
+</p>
+<p class="p3" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC Semibold&quot;; white-space: normal;">
+    <span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;; font-size: 16px;"><strong>好处四、美国保险重信誉，保险理赔简单</strong></span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">美国人寿保险的另一个好处是重信誉，理赔简单。前面讲过美国保险公司经历了<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">200</span>多年的沉淀，很多美国保险公司都是名副其实的<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">“</span>百年老店<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">”</span>。言辞规范而理赔及时，不会玩文字游戏，人死赔钱天经地义。保险公司找藉口不赔或是故意拖延理赔的这在美国从来没有发生过，如对理赔产生争议，法律上绝倾向于受保人。而亚洲国家保险业大多只有几十年历史。特别是寿险，从这点来看和美国的保险业没得比。</span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">美国保险实现<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">“</span>严进宽出<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">”</span>的政策，一般核保都比较严格，耗时较长，赔付却非常的高效。理赔的程序在美国非常简单，只要是提出死亡证明以及死亡理赔申请单即可申办理赔。反观一些亚洲国家因为保险业发展相对年轻，因此理赔制上相对较不纯熟，除了要提供许多资料正本进行理赔申请，拒绝理赔的现象也常发生。</span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><br/></span>
+</p>
+<p class="p3" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC Semibold&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;;"><strong>好处五、分散投资保值财产</strong></span><span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;"><strong>&nbsp;</strong></span></span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">美国人寿保险的第五个好处是可以<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">“</span>藏钱<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">”</span>。鸡蛋不能同时放在一个篮子裡，这个策略很多人都懂，当然那些精明的中国客人更是运用的非常娴熟，做为分散投资的一种渠道，买美国保险是最基本也是最有保障的方式。而且只有美国才有的最新型终身保险还有投资功能，放钱取钱灵活，还有个好处是可以<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">100%</span>免税支取。另外，美国人寿保险上的现金值是不受官司追讨的，具有司法豁免保障。</span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><br/></span>
+</p>
+<p class="p3" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC Semibold&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;;"><strong>好处六、保险理赔还可用来冲抵遗产税</strong></span><span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;"><strong>&nbsp;</strong></span></span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">美国人寿保险的第六个好处是可以对冲遗产税。很多华人来美买房只看价格地段，但很多人可能不知道非美国人过世后，他所投资美国资产或房产遗产税额度只有<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">6</span>万美元，超过这个<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">6</span>万美元部分税率高达<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">40%,</span>更紧迫的是人过世后必须在<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">9</span>个月用现金付清遗产税后才可以继承财产。但如果有人寿保险这个担心就不存在了。除此之外，美国有远见的富裕家庭通常会利用人寿保险来帮子女储蓄。政府每年允许<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">$15,000</span>免报赠予。有的父母，祖父母可以用这个机会来帮年轻的孩子买保险储蓄，规划财富传承给下一代，等到年老退休时提出现金值也有基本的生活质量保障。</span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><br/></span>
+</p>
+<p class="p3" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC Semibold&quot;; white-space: normal;">
+    <span style="font-size: 16px;"><span class="s1" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &quot;PingFang SC&quot;;"><strong>好处七、有效规避</strong></span><span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;"><strong>CRS</strong></span></span>
+</p>
+<p class="p1" style="margin-top: 0px; margin-bottom: 0px; text-align: justify; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 10.5px; line-height: normal; font-family: &quot;PingFang SC&quot;; white-space: normal;">
+    <span style="font-size: 16px;">美国人寿保险的七大好处是，可以避税。对于非美国居民而言，美国保险的一个强有力的优势就是<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">CRS</span>。由于美国没有加<span class="s2" style="font-size: 16px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;">CRS,</span>因此外国人在美国的保险账户也不用担心会被其他国家税务部门拿到信息。</span>
 </p>
 <p>
     <br/>
 </p>
   `,
+};
+
+const refund = {
+  title: "退休金理财",
+  content: `退休金理财相关信息`,
 };
 
 const xintuo = {

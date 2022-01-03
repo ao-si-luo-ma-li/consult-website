@@ -289,13 +289,13 @@ line-height: 42px!important;    .header .navbar-nav>li {
 }
 
 .header .nav>li {
-  margin-left: 30px;
-
-  @media (max-width: 1199px) {
-    margin-left: 18px;
+  margin-left: 30px
+}
+@media (max-width: 1199px) {
+  .header .nav>li {
+    margin-left: 24px;
   }
 }
-
 
 @media (max-width: 998px) {
   .header .nav>li {
