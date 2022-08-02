@@ -1,4 +1,4 @@
-FROM node:12.6.2
+FROM node:10.14.1
 
 # Set app directory
 WORKDIR /root/app
